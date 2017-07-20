@@ -1,6 +1,8 @@
+// sudo apt-get install g++
+// g++ key-reader.cpp -o kr
 
 /*
-Copyright (c) 2016 Maximus5
+Copyright (c) 2016-2017 Maximus5
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
